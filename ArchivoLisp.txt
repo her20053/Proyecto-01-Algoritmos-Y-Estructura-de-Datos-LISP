@@ -1,0 +1,11 @@
+(setq a 5)
+(setq b 1)
+(setq c 1)
+(dotimes (n a)
+
+    (setq c (* b c))
+    (setq b (1+ n))
+
+)
+
+(print "Resultado: ")(print(* b c))
