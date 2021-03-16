@@ -16,6 +16,14 @@ interface Operaciones{
     public void PRINT();
 }
 
+// 1 token
+
+// 2 parse 
+
+// 3 execution
+
+
+//           Interpreter    
 public class Interprete implements Operaciones {
 
 
